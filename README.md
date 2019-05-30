@@ -9,6 +9,6 @@ SpringBoot集成常用开发中间件，分库分表，缓存，消息队列，�
 
 ## 代码更新进度
 
-1、SpringBoot 整合 shard-jdbc 中间件，实现数据分库分表
+1、SpringBoot2.0 整合 shard-jdbc 中间件，实现数据分库分表
 
-2、待更新...
+2、SpringBoot2.0 整合 JavaMail ,实现异步发送邮件功能

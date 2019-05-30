@@ -25,6 +25,8 @@
         <module>ware-shard-jdbc</module>
         <!-- Redis 缓存 -->
         <!--<module>ware-redis-data</module>-->
+        <!-- 整合右键发送 -->
+        <module>ware-email-send</module>
     </modules>
 
     <!-- 依赖版本管理 -->
@@ -55,6 +57,7 @@
         <rocketmq.version>4.3.0</rocketmq.version>
         <shard-jdbc.version>3.1.0</shard-jdbc.version>
         <redis-client.version>2.9.1</redis-client.version>
+        <mail.version>1.5.0-b01</mail.version>
     </properties>
 
     <!-- 依赖管理 -->
